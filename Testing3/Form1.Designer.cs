@@ -34,9 +34,9 @@
             // 
             // CountLetters
             // 
-            this.CountLetters.Location = new System.Drawing.Point(12, 41);
+            this.CountLetters.Location = new System.Drawing.Point(92, 187);
             this.CountLetters.Name = "CountLetters";
-            this.CountLetters.Size = new System.Drawing.Size(50, 43);
+            this.CountLetters.Size = new System.Drawing.Size(70, 62);
             this.CountLetters.TabIndex = 0;
             this.CountLetters.Text = "Count";
             this.CountLetters.UseVisualStyleBackColor = true;
@@ -44,13 +44,13 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(92, 3);
+            this.textBox1.Location = new System.Drawing.Point(37, 12);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.textBox1.Size = new System.Drawing.Size(70, 43);
+            this.textBox1.Size = new System.Drawing.Size(204, 36);
             this.textBox1.TabIndex = 1;
+            this.textBox1.Text = "Click the Count button to see how many letters the file contains.";
             // 
             // Form1
             // 
